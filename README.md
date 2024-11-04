@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @masego-cyber
-- 👀 I’m interested in MERN Stack development
-- 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate on front-end and UI/UX projects
-- 📫 How to reach me kaudimasego7@gmail.com
+- 👀 I’m interested in software quality assurance
+- 🌱 I’m currently learning software testing
+- 💞️ I’m looking to collaborate on software testing and data science projects
+- 📫 How to reach me masegok24@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am great at what I do
 
