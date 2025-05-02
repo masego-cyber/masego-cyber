@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masego-cyber
-- 👀 I’m interested in software quality assurance
-- 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate on software testing and cybersecurity projects
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me masegok24@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am great at what I do
