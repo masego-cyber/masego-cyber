@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masego-cyber
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on cybersecurity projects
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on development and devops projects
 - 📫 How to reach me masegok24@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am great at what I do
